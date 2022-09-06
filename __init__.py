@@ -21,7 +21,7 @@ from requests.packages.urllib3.util.retry import Retry
 @dataclass
 class ForvoConfig():
     port: int = 8770
-    language: str = 'ja'
+    language: str = 'zh'
     preferred_usernames: List[str] = field(default_factory=list)
     show_gender: bool = True
 
