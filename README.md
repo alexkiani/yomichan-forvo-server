@@ -5,7 +5,7 @@ Better yet, with some setup you can also hear a native speaker pronounce that wo
 
 Since Yomichan takes a dictionary file as an input, it is not limited to only Japanese -- its pop-up UI can work with any language that has a compatible dictionary file, including Chinese. At the moment Yomichan only supports Japanese audio out of the box, however with some setup we can get Yomichan to talk to us in Native Mandarin instead!
 
-This is the same addon as the [jamesnicolas' Yomichan Forvo Server](https://github.com/jamesnicolas/yomichan-forvo-server) but with Native Mandarin speakers from the audio by default rather than native Japanese speakers. 
+This is the same addon as the [jamesnicolas' Yomichan Forvo Server](https://github.com/jamesnicolas/yomichan-forvo-server) but with Native Mandarin speakers from the audio by default rather than native Japanese speakers. You can directly clone this repo into your add-ons folder in Anki or install the add-on straight to Anki from [Ankiweb](https://ankiweb.net/shared/info/1118415626) (steps below). 
 
 Before we begin we need to download a dictionary that we like. Thanks to  [Antti Pham](https://github.com/anttipham) we have a variety of different dictionaries we can use. Take a look at the different kinds of options below and download whichover one you like. **NOTE: DO NOT UNZIP THE FILES** we will be uploading the .zip itself to Yomichan in a later step. 
 
@@ -26,8 +26,9 @@ Now that we have a dictionary *and we're not unzipping it* we need to have the f
 *   [Yomichan](https://foosoft.net/projects/yomichan/) if you haven't already 
 *   [Anki](https://apps.ankiweb.net) - Even if you don't plan on using Anki flashcards Anki needs to installed and running whenver you want Chinese Audio
 *   [Anki Connect](https://ankiweb.net/shared/info/2055492159)
+* [This add-on for Native Mandarin](https://ankiweb.net/shared/info/1118415626)
 
-In case you're unsure how to install Anki Add-ons like Anki Connect from above please refer to [this](https://scrubsjourney.com/how-to-add-anki-add-ons/) guide which is done on MACOS but the same steps will work on Windows just fine. Remember to use the code `2055492159` when installing the add-on instead of the one used on the guide!
+In case you're unsure how to install Anki Add-ons like Anki Connect from above please refer to [this](https://scrubsjourney.com/how-to-add-anki-add-ons/) guide which is done on MACOS but the same steps will work on Windows just fine. Remember to use the code `2055492159` for Anki connect and `1118415626` for Mandarin audio when installing the add-on instead of the one used on the guide!
 
 With everything installed we are ready to configure Yomichan for Mandarin!
 
@@ -87,3 +88,10 @@ At this point you should have Yomichan working such that you can hover over a wo
 However, if you would like to integrate Anki with yomichan such that you can instantly add a word to a deck by clicking the green plus button there are a few more steps. If you are not interested in Anki integration then you're done -- go have fun immersing in Chinese! 
 
 In case you are curious how to enable adding Anki [here's a guide I made that might help](https://github.com/alexkiani/yomichan-forvo-server/blob/mandarin/anki%20setup.md). I separated the files out so that people won't get too intimated when they click this guide :p 
+
+
+<br/>
+
+Hope this helps and happy learning! In case there's any issues or you just want to talk feel free to drop a comment or reach out to me via email: alex kiani 97 at gmail (just close the spaces).
+
+Have fun!
