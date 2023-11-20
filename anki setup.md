@@ -101,6 +101,8 @@ Now here we can have a little customization with how we want our cards to look. 
 
 Regarding the fields, at a minimum fill out the `Front` , `Back` , and `Pinyin`fields like I have below. Don't freak out that `Pinyin` is labeled `{furigana}`, that's just yomichan's way of adding in the text that goes above hanzi/kanji.
 
+![enter image description here](https://i.imgur.com/XhThxKt.png)
+
 If you don't want an audio pronounciation of the word in your deck, leave `Audio` blank. Same with `Sentence` if you don't want the scentence where you read your word to go into the card you're making. 
 
 
